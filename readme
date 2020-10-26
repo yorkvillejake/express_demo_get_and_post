@@ -1,0 +1,7 @@
+From: https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm
+
+sample app using nodejs_express_framework
+index.html = uses method = GET
+index2.html = uses method = POST
+
+run with 'node app.js'
